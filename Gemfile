@@ -40,7 +40,7 @@ group :test do
   gem 'jslint_on_rails', '~> 1.1.1'
   gem 'launchy'
   gem 'parallel_tests'
-  gem 'rspec-rails',     '~> 2.9.0'
+  gem 'rspec-rails',     '~> 2.13'
   gem 'shoulda-matchers'
   gem 'sqlite3'
 end
